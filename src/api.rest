@@ -1,0 +1,3 @@
+//GET https://api.themoviedb.org/3/movie/550?api_key=930c81bb5769b0f72753e71955b84d66
+
+GET https://api.themoviedb.org/3/trending/all/week?api_key=930c81bb5769b0f72753e71955b84d66&language=en-US
